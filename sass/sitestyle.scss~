@@ -1,0 +1,8 @@
+@import "bootstrap";
+
+$babu-color : orange;
+
+.jumbotron p
+	{
+		background-color : $babu-color;	
+	}
